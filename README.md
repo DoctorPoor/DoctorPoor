@@ -13,6 +13,6 @@
 
 ##### For more
 
-<a href="https://perrytiu.com/podcast"><img align="left" src="https://www.perrytiu.com/headshots/perry3.jpg" width="64" alt="Perry Tiu Icon"></a>
+<a href="https://perrytiu.com/podcast"><img align="left" src="https://www.perrytiu.com/headshots/perry.jpg" width="64" alt="Perry Tiu Icon"></a>
 <a href="https://www.instagram.com/doctorpoor/"><img align="left" src="https://www.perrytiu.com/icons/instagram.webp" width="64" alt="Instagram Icon"></a>
 <a href="https://twitter.com/perry_tiu"><img align="left" src="https://www.perrytiu.com/icons/twitter.webp" width="64" alt="Twitter Icon"></a>
